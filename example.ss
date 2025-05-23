@@ -1,0 +1,1 @@
+add 1+1 then say a random word and then keep the window open 
